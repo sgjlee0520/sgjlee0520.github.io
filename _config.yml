@@ -117,18 +117,18 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a **progressing** person. 1% increase everyday leads to 3678% increase in a year. I strive to be improve 1% everday,
   in every dimension possible. Today I may strive to be stronger. Tomorrow I will stive to be nicer. Next week I will strive to learn."
-  location         : "Santa Barbara, CA & Busan, South Korea"
+  location         : "Santa Barbara, CA & Busan, Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:songgunlee@ucsb.edu"
+      url: "mailto:songgunlee@ucsb.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-      # url: "https://www.linkedin.com/in/songgun-lee-562991227/"
+      url: "https://www.linkedin.com/in/songgun-lee-562991227/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -137,7 +137,7 @@ author:
       # url: "https://github.com/sglee0520.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/songgunlee/"
+      url: "https://www.instagram.com/songgunlee/"
 
 # Site Footer
 footer:
